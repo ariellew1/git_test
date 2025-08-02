@@ -1,0 +1,1 @@
+To jest przykładowy teksy dodany do pliku hello_world.txt.
